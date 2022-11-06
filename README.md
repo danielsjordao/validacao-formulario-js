@@ -1,6 +1,6 @@
 # validacao-formulario-js
 
-Acesse o formulário: https://validacao-formulario-js.vercel.app/
+Acesse o formulário: https://validacao-formulario-jt58v4z63-dsjordao.vercel.app/index.html
 
 Validações customizadas utilizando técnicas atuais com JavaScript
 
