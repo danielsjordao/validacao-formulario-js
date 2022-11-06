@@ -8,11 +8,12 @@ Preencher campos de endereço automaticamente com requisições à API da ViaCEP
 
 Projeto desenvolvido tendo como parâmetro o curso ministrado pela Alura "JavaScript na Web: validação de Formulários e HTML5
 
-Apresentação da página principal de cadastro
+#Apresentação da página principal de cadastro
 
 ![image](https://user-images.githubusercontent.com/101356855/200185963-60d135d9-9e7a-415e-821c-6377e11cdcf4.png)
 
 Para completar o cadastro, o usuário deve preencher todos os dados e caso insira alguma informação que esteja fora do padrão definido em JavaScript retornará a mensagem.
+Uilização de Regex para elaboração de senha alphanumérica, com condição de não aceitação de caracteres especiais.
 
 ![image](https://user-images.githubusercontent.com/101356855/200186155-a1260ae0-6524-4205-8343-b7fc01859309.png)
 
