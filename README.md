@@ -1,4 +1,9 @@
 # validacao-formulario-js
+
+Validações customizadas utilizando técnicas atuais com JavaScript
+
+Preencher campos de endereço automaticamente com requisições à API da ViaCEP
+
 Projeto desenvolvido tendo como parâmetro o curso ministrado pela Alura "JavaScript na Web: validação de Formulários e HTML5
 
 Apresentação da página principal de cadastro
