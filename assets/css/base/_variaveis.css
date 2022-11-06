@@ -1,0 +1,31 @@
+:root {
+    --fonte-familia-corpo: 'Montserrat', sans-serif, 'Share Tech';
+    --fonte-familia-logo: 'Share Tech';
+
+    --fonte-peso-input: 300;
+
+    --fonte-tamanho-logo: 1.75rem;
+    --fonte-tamanho-cartao-titulo: 1.75rem;
+    --fonte-tamanho-input-label: 1.25rem;
+    --fonte-tamanho-botao: 1.375rem;
+    --fonte-tamanho-formulario-fieldset: 1.375rem;
+    --fonte-tamanho-tabela-cabecalho: 1.375rem;
+    --fonte-tamanho-modal-titulo: 1.75rem;
+    --fonte-tamanho-modal-botao: 1.75rem;
+    
+    --cor-primaria: #0071ea;
+    --cor-secundaria: #d6eaff;
+    --cor-contraste-escuro: #4D4D4D;
+    --cor-contraste-claro: #fff;
+    --cor-aviso: #df2525;
+    --cor-sucesso: #047900;
+    --cor-transparencia: #4d4d4d33;
+
+    --sombra: 0 .3125rem .625rem #55a6ff38;
+}
+
+@media(min-width: 50rem) {
+    :root {
+        --fonte-tamanho-logo: 3.5rem;
+    }
+}
