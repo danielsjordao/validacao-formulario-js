@@ -1,14 +1,16 @@
-# validacao-formulario-js
+# Validação de Formulário - JS
 
-Acesse o formulário: https://validacao-formulario-jt58v4z63-dsjordao.vercel.app/index.html
+## Link de acesso ao formulário 
 
-Validações customizadas utilizando técnicas atuais com JavaScript
+https://validacao-formulario-jt58v4z63-dsjordao.vercel.app/index.html
+
+## Validações customizadas utilizando técnicas atuais com JavaScript
 
 Preencher campos de endereço automaticamente com requisições à API da ViaCEP
 
 Projeto desenvolvido tendo como parâmetro o curso ministrado pela Alura "JavaScript na Web: validação de Formulários e HTML5
 
-#Apresentação da página principal de cadastro
+# Apresentação da página principal de cadastro
 
 ![image](https://user-images.githubusercontent.com/101356855/200185963-60d135d9-9e7a-415e-821c-6377e11cdcf4.png)
 
@@ -34,5 +36,10 @@ Outra condição sendo comsumida por API VIACEP é a busca de endereço após di
 Após digitar os dados corretamente, o usuário receberá a informação que a conta já está cadastrada.
 
 ![image](https://user-images.githubusercontent.com/101356855/200186528-56338512-51fa-4f0a-ba52-6bd3a1d7a565.png)
+
+## Agradecimentos
+
+- Alura
+- Programa One
 
 
